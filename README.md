@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lalit Kumar Rana @lali3000
+- 👋 Hi, I’m Lalit Kumar Rana
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning laravel 8
 - 💞️ I’m looking to collaborate on web development
