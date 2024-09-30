@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Lalit Kumar Rana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel 8
+- 🌱 Laravel, Codeigniter3,4 ,Angular, React, Ionic
 - 💞️ I’m looking to collaborate on web development
 - 📫 you can reach me at @lalitrana2018r@gmail.com
 
-<!---
-lali3000/lali3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
